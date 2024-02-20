@@ -1,11 +1,10 @@
-hello world!
-
+# First file for version control
+## text formating
 *italic*
-
-starting version control
 
 **bold**
 
+## list making
 * element1
 * element2
 * element3
