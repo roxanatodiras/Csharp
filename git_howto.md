@@ -24,6 +24,25 @@ Switching to the last commit
 ```sh
 git checkout master
 ```
->or main as in my case
+>or main instead of master as in my case
 
-
+Restoring a version when made some unwanted changes
+```sh
+git restore <file_name>
+```
+Checking the status of the file
+```sh
+git status
+```
+Checking the differences between the current file and the last saved version of the file
+```sh
+git diff
+```
+Configuring the name of the user
+```sh
+git config --global user.name
+```
+Configuring the email of the user
+```sh
+git config --global user.email
+```
