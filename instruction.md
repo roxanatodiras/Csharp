@@ -1,8 +1,10 @@
 # Instruction for MarkDown
 
-## Second lever chapter
-### Third level chapter
-
+## Creating text style
 Writing simple text
 
 Writing from a new line
+
+**bold text**
+
+*italic text*
