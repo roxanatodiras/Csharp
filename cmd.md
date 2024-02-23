@@ -16,3 +16,11 @@ MacOs, Linux
 ```sh
 ls
 ```
+to delete a file in Windows
+```sh
+del <filename>
+```
+MacOs, Linux
+```sh
+rm <filename>
+```
