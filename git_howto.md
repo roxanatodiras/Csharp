@@ -57,3 +57,7 @@ Switching between branches
 git checkout <branch_name>
 ```
 
+Creating new branch
+```sh
+git branch <branch_name>
+```
