@@ -61,3 +61,13 @@ Creating new branch
 ```sh
 git branch <branch_name>
 ```
+
+Deleting a branch
+```sh
+git branch -d <branch_name>
+```
+
+Checking the log as a graphic
+```sh
+git log --graph
+```
