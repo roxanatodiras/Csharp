@@ -27,3 +27,5 @@ Writing from a new line
 text [crafti](http.crafti.md "poping hint")
 
 ##howto to add pictures in Markdown
+This is Roxana
+![Roxana](rox.jpg)
