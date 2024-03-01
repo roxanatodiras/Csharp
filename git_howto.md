@@ -47,3 +47,13 @@ Configuring the email of the user
 git config --global user.email
 ```
 
+Showing all the branches
+```sh
+git branch
+```
+
+Switching between branches
+```sh
+git checkout <branch_name>
+```
+
