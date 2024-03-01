@@ -10,7 +10,7 @@ git add <file_name>
 ```
 Commiting a change
 ```sh
-git commit -m "the message about the change"
+git commit -m "the message of the change"
 ```
 Checking the log of the changes and the number of the commit in one line
 ```sh
