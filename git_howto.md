@@ -46,3 +46,8 @@ Configuring the email of the user
 ```sh
 git config --global user.email
 ```
+
+Showing all the branches
+```sh
+git branch
+```
