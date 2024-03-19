@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task1\\task1.csproj",
+      "projectUniqueName": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task1\\task1.csproj",
       "projectName": "task1",
-      "projectPath": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task1\\task1.csproj",
+      "projectPath": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\TODIRAS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task1\\obj\\",
+      "outputPath": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TODIRAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

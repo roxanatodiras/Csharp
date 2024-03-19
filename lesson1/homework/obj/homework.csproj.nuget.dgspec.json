@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TODIRAS\\Desktop\\git lesson\\homework\\homework.csproj": {}
+    "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\homework\\homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TODIRAS\\Desktop\\git lesson\\homework\\homework.csproj": {
+    "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\homework\\homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\homework\\homework.csproj",
+        "projectUniqueName": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\homework\\homework.csproj",
         "projectName": "homework",
-        "projectPath": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\homework\\homework.csproj",
+        "projectPath": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\homework\\homework.csproj",
         "packagesPath": "C:\\Users\\TODIRAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\homework\\obj\\",
+        "outputPath": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TODIRAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

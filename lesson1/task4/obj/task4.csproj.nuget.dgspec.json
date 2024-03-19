@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task4\\task4.csproj": {}
+    "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task4\\task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task4\\task4.csproj": {
+    "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task4\\task4.csproj",
+        "projectUniqueName": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task4\\task4.csproj",
+        "projectPath": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task4\\task4.csproj",
         "packagesPath": "C:\\Users\\TODIRAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TODIRAS\\Desktop\\git lesson\\task4\\obj\\",
+        "outputPath": "C:\\Users\\TODIRAS\\Desktop\\01_CSHARP\\lesson1\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TODIRAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
